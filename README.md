@@ -2,8 +2,7 @@
 Sales Management API
 
 # project overview 
-
-<img src="overview,png"/>
+  <img src="overview.png"/>
 
 # arquitecture 
 
