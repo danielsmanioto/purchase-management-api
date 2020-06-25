@@ -11,10 +11,11 @@ Thiis project is API of / sales-management project
   
 # technologies 
 
-Java14
-Gradle
-Mongodb/Redis
-JWT
-AUTH
-Jackson
-
+<ul>
+  <li>Java14</li>
+  <li>Gradle</li>
+  <li>Mongodb/Redis</li>
+  <li>JWT</li>
+  <li>AUTH</li>
+  <li>Jackson</li>
+</ul>
