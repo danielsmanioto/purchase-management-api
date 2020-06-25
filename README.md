@@ -38,7 +38,7 @@ Thiis project is API of / purchase-management project
 </ul>
 
 
-
-
+# Layout 
+  <img src="purchase-management-layout.png"/>
 
  
