@@ -1,7 +1,7 @@
 # purchase-management-api
 purchase Management API 
 
-Thiis project is API of / purchase-management project
+This project is API of / purchase-management project
 
 # project overview 
   
