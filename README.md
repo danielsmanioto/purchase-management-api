@@ -1,7 +1,7 @@
-# sales-management-api
-Sales Management API 
+# purchase-management-api
+purchase Management API 
 
-Thiis project is API of / sales-management project
+Thiis project is API of / purchase-management project
 
 # project overview 
   
