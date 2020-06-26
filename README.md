@@ -38,7 +38,7 @@ This project is API of / purchase-management project
 
 <ul>
   <li>Saber o que preciso comprar.</li>
-  <li>Saber o qude cade eu comprei.</li>
+  <li>Saber o que cade eu comprei.</li>
   <li>Saber se comprei tudo.</li>
   <li>Saber o valor de cada item.</li>
   <li>Colaborativamente, Quero em qual mercado tem o melhor valor.</li>
