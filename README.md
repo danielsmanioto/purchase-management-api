@@ -6,8 +6,11 @@ This project is API of / purchase-management project
 # project overview 
   
   <img src="overview.png"/>
-    
-# arquitecture 
+
+# API arquitecture 
+  We are use the spring boot base arquitecture.
+  
+  <img src="project-api-architecture.png"/>
   
 # technologies 
 
@@ -18,6 +21,10 @@ This project is API of / purchase-management project
   <li>JWT</li>
   <li>AUTH</li>
   <li>Jackson</li>
+  <li>SpringBoot</li>
+  <li>Sprint Data JPA</li>
+  <li>Sprint Security</li>
+  <li>Lombok</li>
 </ul>
 
 # Gerenciamento compras - Requisitos
@@ -36,7 +43,6 @@ This project is API of / purchase-management project
   <li>Saber o valor de cada item.</li>
   <li>Colaborativamente, Quero em qual mercado tem o melhor valor.</li>
 </ul>
-
 
 # Layout 
   <img src="purchase-management-layout.png"/>
