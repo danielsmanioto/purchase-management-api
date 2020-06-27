@@ -3,13 +3,6 @@ purchase Management API
 
 This project is API of / purchase-management project
 
-# Related repositories / projects
-
-<ul>
-  <li>purchase-management-web</li>
-  <li>purchase-management-app</li>
-</ul>
-
 # project overview 
   
   <img src="overview_bussiness.png"/>
@@ -20,7 +13,14 @@ This project is API of / purchase-management project
   We are use the spring boot base arquitecture.
   
   <img src="project-api-architecture.png"/>
-  
+
+# Related repositories / projects
+
+<ul>
+  <li>purchase-management-web</li>
+  <li>purchase-management-app</li>
+</ul>
+
 # technologies 
 
 <ul>
