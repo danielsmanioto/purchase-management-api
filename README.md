@@ -3,6 +3,13 @@ purchase Management API
 
 This project is API of / purchase-management project
 
+# Related repositories / projects
+
+<ul>
+  <li>purchase-management-web</li>
+  <li>purchase-management-app</li>
+</ul>
+
 # project overview 
   
   <img src="overview_bussiness.png"/>
