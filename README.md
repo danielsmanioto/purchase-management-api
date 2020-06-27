@@ -5,6 +5,8 @@ This project is API of / purchase-management project
 
 # project overview 
   
+  <img src="overview_bussiness.png"/>
+  
   <img src="overview.png"/>
 
 # API arquitecture 
